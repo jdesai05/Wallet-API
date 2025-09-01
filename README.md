@@ -1,6 +1,6 @@
 # 💳 Wallet API
 
-[![Demo Video](https://drive.google.com/file/d/1luGImfWMKTnNoNXHpcc7MBlQz2dKO7z7/view)](YOUR_DEMO_VIDEO_LINK_HERE)
+[![Demo Video](https://img.shields.io/badge/▶️%20Watch-Demo%20Video-blue)](https://drive.google.com/file/d/1luGImfWMKTnNoNXHpcc7MBlQz2dKO7z7/view)
 
 A simple Wallet Management System built with **FastAPI**.  
 This project provides APIs to manage users, update their wallet balances, and fetch transaction history.  
